@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola a todos! 👋
 
-<!--
-**GermanMetzger/GermanMetzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> Soy German Metzger desarrollador web ⚔️</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 Actualmente estoy trabajando en terminar mi carrera y crear proyectos personales 😄
+
+
+ 🌱 Actualmente estoy aprendiendo NodeJs de a poquito, me gustan los juegos y mi objetivo es crear uno! 🎮
+
+
+ 👯 Me gustaria colaborar con la comunidad en si para proyectos chiquitos en donde pueda crecer como desarrolador! 🦝
+
+ 
+ 💬 Preguntame sobre lo que te gustaria crear y juntos veremos de encontrar las mejores soluciones 🤝
+
+
+ 📫 Puedes contactarme por Discord como ger1221🥏
+
+
+ 
