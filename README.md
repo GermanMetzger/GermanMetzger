@@ -1,21 +1,54 @@
-# Hola a todos! 👋
+# 👋 Hola a todos, ¡bienvenidos a mi perfil!
 
+## Soy German Metzger 🧑‍💻 | Desarrollador web en crecimiento 🚀
 
-<h2> Soy German Metzger desarrollador web ⚔️</h2>
+---
 
- 🔭 Actualmente estoy trabajando en terminar mi carrera y crear proyectos personales 😄
+### Sobre mí:
 
+- 🎓 Actualmente estoy finalizando mi carrera y enfocándome en proyectos personales.
+- 🌱 Estoy aprendiendo **Node.js** y disfruto mucho creando proyectos relacionados con videojuegos 🎮.
+- 🤝 Me encanta colaborar en proyectos donde pueda aprender, crecer y contribuir.
+- 🧠 Siempre en busca de soluciones creativas y eficientes para los desafíos del desarrollo web.
+- 🛠️ Mi objetivo es convertirme en un desarrollador Full Stack con un enfoque en **JavaScript** y tecnologías web modernas.
 
- 🌱 Actualmente estoy aprendiendo NodeJs de a poquito, me gustan los juegos y mi objetivo es crear uno! 🎮
+---
 
+### 💼 ¿En qué estoy trabajando?
 
- 👯 Me gustaria colaborar con la comunidad en si para proyectos chiquitos en donde pueda crecer como desarrolador! 🦝
+- 📌 Desarrollando proyectos personales que me ayudan a aprender y mejorar mis habilidades.
+- 🎯 Mi meta actual es crear un **juego en línea** usando **Node.js** y **Socket.IO**.
 
- 
- 💬 Preguntame sobre lo que te gustaria crear y juntos veremos de encontrar las mejores soluciones 🤝
+---
 
+### 💡 ¿Cómo puedo ayudarte?
 
- 📫 Puedes contactarme por Discord como ger1221🥏
+- 🚀 Si tienes ideas para un proyecto y necesitas ayuda o colaboración, ¡no dudes en contactarme!
+- 💬 Estoy disponible para consultas sobre **desarrollo web**, **Node.js**, **JavaScript**, o cualquier tema relacionado con tecnología.
 
+---
 
- 
+### 📫 ¿Cómo contactarme?
+
+- Discord: **ger1221**
+- LinkedIn: [German Metzger](https://www.linkedin.com) _(Añade tu perfil de LinkedIn si tienes)_
+- Email: _Tu correo aquí (opcional)_
+
+---
+
+### 🌟 Lenguajes y herramientas:
+
+- **Frontend**: HTML5 | CSS3 | JavaScript | Bootstrap
+- **Backend**: Node.js | Express
+- **Bases de datos**: MySQL | MongoDB
+- **Control de versiones**: Git | GitHub
+
+---
+
+### 🔗 Repositorios destacados:
+
+- [**Proyecto Página Personal**](https://github.com/GermanMetzger/GermanMetzger) - Mi página web personal.
+
+---
+
+> **"La curiosidad es el motor de todo desarrollador."**
