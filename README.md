@@ -31,16 +31,15 @@
 ### 📫 ¿Cómo contactarme?
 
 - Discord: **ger1221**
-- LinkedIn: [German Metzger](https://www.linkedin.com) _(Añade tu perfil de LinkedIn si tienes)_
-- Email: _Tu correo aquí (opcional)_
+- Email: metzgergerman@gmail.com
 
 ---
 
 ### 🌟 Lenguajes y herramientas:
 
-- **Frontend**: HTML5 | CSS3 | JavaScript | Bootstrap
+- **Frontend**: HTML5 | CSS3 | JavaScript
 - **Backend**: Node.js | Express
-- **Bases de datos**: MySQL | MongoDB
+- **Bases de datos**: MySQL 
 - **Control de versiones**: Git | GitHub
 
 ---
