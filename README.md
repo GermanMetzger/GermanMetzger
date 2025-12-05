@@ -6,8 +6,8 @@
 
 ### Sobre mí:
 
-- 🎓 Actualmente estoy finalizando mi carrera y enfocándome en proyectos personales.
-- 🌱 Estoy aprendiendo **Node.js** y disfruto mucho creando proyectos relacionados con videojuegos 🎮.
+- 🎓 Actualmene soy tecnico desarrollador web recibido de la universida del Comahue.
+- 🌱 Estoy aprendiendo **Node.js** junto con express y disfruto mucho creando proyectos relacionados con videojuegos 🎮.
 - 🤝 Me encanta colaborar en proyectos donde pueda aprender, crecer y contribuir.
 - 🧠 Siempre en busca de soluciones creativas y eficientes para los desafíos del desarrollo web.
 - 🛠️ Mi objetivo es convertirme en un desarrollador Full Stack con un enfoque en **JavaScript** y tecnologías web modernas.
@@ -37,16 +37,10 @@
 
 ### 🌟 Lenguajes y herramientas:
 
-- **Frontend**: HTML5 | CSS3 | JavaScript
-- **Backend**: Node.js | Express
+- **Frontend**: HTML5 | CSS3 | JavaScript | React
+- **Backend**: Node.js | Express | Jwt
 - **Bases de datos**: MySQL 
 - **Control de versiones**: Git | GitHub
-
----
-
-### 🔗 Repositorios destacados:
-
-- [**Proyecto Página Personal**](https://github.com/GermanMetzger/GermanMetzger) - Mi página web personal.
 
 ---
 
